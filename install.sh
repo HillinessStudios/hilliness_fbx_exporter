@@ -1,0 +1,1 @@
+pip install . --user --verbose --force-reinstall

@@ -1,0 +1,6 @@
+[project]
+name="hilliness_fbx_exporter"
+version="2024.02.13"
+description = "simple tool to export fbx from blender"
+readme = "README.md"
+license = {file = "LICENSE.txt"}
